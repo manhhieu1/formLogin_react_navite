@@ -4,7 +4,7 @@ import { View, Text } from 'react-native'
 export default function Abc() {
     return (
         <View>
-            <Text>abc</Text>
+            <Text>abcd</Text>
         </View>
     )
 }
